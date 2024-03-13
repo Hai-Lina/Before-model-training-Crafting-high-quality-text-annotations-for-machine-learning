@@ -29,7 +29,7 @@ The tutorial lasts 4 hours including breaks.
 ## Presenters
 - Alina Herderich (Graz University of Technology, Harvard University) [https://hai-lina.github.io](https://hai-lina.github.io)
 - Sofie Labat (Gent University) [https://lt3.ugent.be/people/sofie-labat/](https://lt3.ugent.be/people/sofie-labat/)
-- Jana Lasser (Graz University of Technology, Complexity Science Hub Vienna) [https://www.janalasser.at](https://www.janalasser.at)
+- Jana Lasser (University of Graz, Complexity Science Hub Vienna) [https://www.janalasser.at](https://www.janalasser.at)
 
 ## Literature
 For participants who prefer to familiarize themselves with the tutorial content beforehand, we recommend the following literature. ! Preparation is not expected, nor necessary !
