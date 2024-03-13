@@ -23,6 +23,11 @@ The tutorial lasts 4 hours including breaks.
 - [20 min, PRESENTATION] Trading agreement for disagreement - an introduction to perspectivism: Data perspectivism states that different human interpretations of the same data sample can and should coexist and how multiple perspectives can be integrated in the modeling process.
 - [20 min, DISCUSSION] Final discussion & feedback: We will reflect upon the aquired knowledge and clarfiy open questions.
 
+## Lecturers
+- Alina Herderich (Graz University of Technology, Harvard University)
+- Sofie Labat (Gent University)
+- Jana Lasser (Graz University of Technology, Complexity Science Hub Vienna)
+
 ## Literature
 For participants who prefer to familiarize themselves with the tutorial content beforehand, we recommend the following literature. ! Preparation is not expected, nor necessary !
 
