@@ -12,7 +12,7 @@ Basic programming knowledge is beneficial for minor parts of the exercises (~10%
 
 ## Preparation
 - An installation of Python and Jupyter Notebooks on the participants’ own laptops is beneficial (e.g., using the Anaconda environment). Alternatively, participants can use Google Colab.
-- A list of necessary packages to execute the provided notebook(s) will be provided in a requirements file beforehand.
+- A list of necessary packages to execute the provided notebook(s) will be provided in an environment file beforehand.
 
 ## Duration and tutorial schedule
 The tutorial lasts 4 hours including breaks.
