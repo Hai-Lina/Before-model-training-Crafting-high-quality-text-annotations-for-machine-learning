@@ -18,7 +18,7 @@ Basic programming knowledge is beneficial for minor parts of the exercises (~10%
 The tutorial lasts 4 hours including breaks.
 
 - [15 min, PRESENTATION] *Welcome, Introduction & Set Up*: This part will quickly introduce the lecturers, schedule and goals of the tutorial.
-- [20 min, PRESENTATION] *How modeling choices can inform data collection and annotation*: We will elaborate on how anticipated machine learning modeling choices should influence the training data set creation.
+- [20 min, PRESENTATION] *How modeling choices can inform data collection and annotation*: We will elaborate on how anticipated machine learning modeling choices should influence the training data set creation [[slides interactive](https://janalasser.at/lectures/ICWSM_tutorial_modeling_choices/)] [[slides pdf](Before model training – ICWSM 2024 tutorial.pdf)].
 - [20 min, PRESENTATION] *A short introduction to grounded theory*: This classical social science technique can guide the work with unstructured text data, where theories are constructed from the bottom-up through iterative reading.
 - [70 min, PRACTICAL] *Creating an annotation scheme using deep reading and open coding*: Participants will be guided in creating an annotation scheme for interpersonal emotion regulation strategies based on selected transcripts of natural conversations.
 - [15 min, BREAK]
