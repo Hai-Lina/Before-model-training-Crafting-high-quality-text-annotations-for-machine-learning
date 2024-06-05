@@ -48,3 +48,6 @@ Expect the following materials to be provided with closer proximity to the tutor
 - Worksheets for practice sessions on grounded theory and data annotation
 - A Jupyter Notebook for the practice session on data annotation to compute inter-annotator agreement
 - Slides for all presentations
+
+## Licensing
+This work is placed under a Creative Commons BY-NC-SA license. This license enables reusers to distribute, remix, adapt, and build upon the material in any medium or format for noncommercial purposes only, and only so long as attribution is given to the creator. If you remix, adapt, or build upon the material, you must license the modified material under identical terms.
